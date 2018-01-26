@@ -1,2 +1,4 @@
 ./public/bundle.js
 node_modules/*
+.lesson.yml
+brussels-sprouts-fetch.md
